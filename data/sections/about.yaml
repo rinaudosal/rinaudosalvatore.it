@@ -9,37 +9,33 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Codeway SA
+  url: "https://codeway.ch"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate Software Engineer with 9 years of working experience. I have strong experience in Java development with Spring eco-system, my competence focus are: Functional Programing, Agile metodologies (Scrum, Kanban, TDD), Spring Boot. Two years ago when i discover JHipster i love it immediatly and i know in-dept. Actually i work with Java 11 and Angular in JHipster Cloud structure.  Sometimes, I work on some opensource projects such as [NoiOpen](https://www.noiopen.it/), [FactChecking](https://github.com/rinaudosal/factchecking-static-site) etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "rinaudo.sal@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/rinaudosal"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://stackoverflow.com/users/10687036/salvatore-rinaudo?tab=profile"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+  url: "https://www.linkedin.com/in/salvatore-rinaudo-18405547/"
 
 - name: Facebook
   icon: "fab fa-facebook"
