@@ -8,25 +8,34 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  icon: "images/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
 
-- name: Go Development
-  icon: "images/skills/go.png"
+- name: Java Development
+  icon: "images/skills/java.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+
+- name: Spring Framework
+  icon: "images/skills/spring.jpg"
+  summary: "Using the main Java framework i am able to develop quickly Batch processes, Scalable and Testable REST API with Spring Boot."
+
+- name: Angular Framework
+  icon: "images/skills/angular.svg"
+  summary: "Using the main JS framework i am able to develop Single Page Applications Testable."
+
+- name: TDD
+  icon: "images/skills/tdd.png"
+  summary: "More than 2 Years of exerience in TDD Development."
+
+- name: Microservices Architecture
+  icon: "images/skills/microservice.jpg"
+  summary: "Worked with microservice Architecture. Spring Boot Applications, Containerized with Docker, Deployed to the Cloud"
 
 - name: Cloud Computing
   icon: "images/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most of the major clouds such as GCP and AWS"
 
 - name: Docker
   icon: "images/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-
-- name: Prometheus
-  icon: "images/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Write most of the programs as dockerized container. Experienced with compose & build processes integrated in CI/CD pipelines."
 
 - name: Linux
   icon: "images/skills/linux.png"
@@ -34,8 +43,4 @@ skills:
 
 - name: Git
   icon: "images/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-
-- name: C++
-  icon: "images/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Experienced with git-based development. Platform used are Github, GitLab and BitBucket."

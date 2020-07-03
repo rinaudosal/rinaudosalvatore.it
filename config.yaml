@@ -1,6 +1,6 @@
 baseURL: http://rinaudosalvatore.it/
 languageCode: en-us
-title: "Toha"
+title: "Salvatore | Personal Website"
 theme: "toha"
 
 # Allow raw html in markdown file
@@ -30,13 +30,13 @@ params:
   gitRepo: https://github.com/rinaudosal/rinaudosalvatore.it
 
   # specify whether you want to write blog post or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify the list of custom menus that you want to show in the top navbar.
   # they will be separated by a divider from the main menus.
   customMenus:
-  - name: Notes
-    url: https://hossainnotes.netlify.app/docs/example/
+#  - name: Notes
+#    url: https://hossainnotes.netlify.app/docs/example/
 
   # some information about you
   author:

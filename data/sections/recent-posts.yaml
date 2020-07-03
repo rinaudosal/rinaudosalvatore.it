@@ -1,8 +1,8 @@
 # section information
 section:
   name: Recent Posts
-  enable: true
+  enable: false
   weight: 5
-  showOnNavbar: true
+  showOnNavbar: false
 
 # no other configuration is required
