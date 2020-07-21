@@ -37,17 +37,14 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/salvatore-rinaudo-18405547/"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported color: blue, yellow, pink, green
 softSkills:
-- name: Java
-  percentage: 85
-  color: blue
 - name: Team Work
   percentage: 90
   color: yellow
@@ -57,3 +54,9 @@ softSkills:
 - name: Agile Mindset
   percentage: 80
   color: green
+- name: Java
+  percentage: 85
+  color: blue
+- name: Angular
+  percentage: 50
+  color: brown

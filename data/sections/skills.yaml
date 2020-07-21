@@ -8,7 +8,6 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-
 - name: Java Development
   icon: "images/skills/java.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."

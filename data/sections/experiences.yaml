@@ -8,44 +8,110 @@ section:
 
 # Your experiences
 experiences:
-- designation: Software Engineer
+- designation: Senior Software Engineer
   company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Docomo Digital (NTT DOCOMO Group)
+    url: "https://www.docomodigital.com"
+    location: Milan (Italy)
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  start: Nov 2017
+    overview: I worked on Alternative Payments Integration such as Digital Wallet, integrated on existing platform of Payments.
+  start: Nov 2019
   # don't provide end date if you are currently working there. It will be replaced by "Present"
   # end: Dec 2020
   # give some points about what was your responsibilities at the company.
   responsibilities:
-  - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-  - My another responsibility.
-  - My more responsibilities.
+  - Development of new applications with Microservice Architecture as Netflix OSS
+  - Agile mentoring for Kanban, Scrum and XP metodologies to be use for improving the processes
+  - Java Developer with Tecnology Used as Java 9, Spring Boot - Data - MVC, MongoDB, Swagger 3.0 for API documentation
+
+- designation: Full Stack Developer
+  company:
+    name: Codeway SA
+    url: "https://codeway.ch"
+    location: Chiasso (Switzerland)
+    overview: Developed backoffice application for giant e-commerce companies.
+  start: Dec 2018
+  end: Nov 2019
+  responsibilities:
+  - Development application in a Microservice Architecture based on Spring Boot by JHipster, with Gateway in Angular 7
+  - Focus of the development was on the CI/CD approach using mostly XP tecniques as TDD, BDD, unit tests etc.
+  - CI/CD processes with Jenkins, Sonar, Protractor, CucumberJS, Docker
+
+- designation: Senior Software Engineer
+  company:
+    name: Wideside SAGL
+    url: "https://www.wideside.ch/?lang=en"
+    location: Chiasso (Switzerland)
+    overview: Implement backend APIs for Financial Mobile App.
+  start: Feb 2018
+  end: Nov 2019
+  responsibilities:
+  - openapi documentation with swagger
+  - Java Developer writing APIs stored in Google Cloud using Docker for containerize the application
+  - Cloud Environment in GCP using docker and k8s
+  - methodologied used as Api-First Development, TDD, BDD, XP
+
+- designation: Full Stack Developer
+  company:
+    name: Blue Reply s.r.l.
+    url: "https://www.linkedin.com/company/blue-reply-it/"
+    location: Milan (Italy)
+    overview: Design, Developing and Testing SOA Web Application for retrieving prices of stocks by Major Financial providers (Bloombers, Kler's etc...).
+  start: Jun 2017
+  end: Feb 2018
+  responsibilities:
+  - Creation of statistics and monitoring APIs for web services.
+  - Frontend Application with Angular 1.5
+  - Java Developer writing APIs stored in Google Cloud using Docker for containerize the application
+
+- designation: Technical Team Leader
+  company:
+    name: Blue Reply s.r.l.
+    url: "https://www.linkedin.com/company/blue-reply-it/"
+    location: Milan (Italy)
+    overview: Managing Design, Develop and Testing business functionality for SCF Portal for major Italian Bank.
+  start: Sep 2016
+  end: Feb 2018
+  responsibilities:
+  - Managing Team of 4 people
+  - Estimation of the new features and staffing the People needed for that
+  - Java Developer
 
 - designation: Software Engineer
   company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  start: March 2016
-  end: May 2017
+    name: Blue Reply s.r.l.
+    url: "https://www.linkedin.com/company/blue-reply-it/"
+    location: Milan (Italy)
+    overview: Developed MyBusinessManager 2016. The application manage RiBa and Invoice for small and middle companies.
+  start: Oct 2015
+  end: Aug 2016
   responsibilities:
-  - Write lots of example codes.
-  - Read lots of examples.
-  - See lots of example videos.
+  - Performance Tuning of the existing APIs
+  - Release Manager with Jenkins
+  - Develop minor activities in Scrum with teclologies as Spring MVC, IBM Portal 8 & Portlets, WAS 8.5, SOAP, Hibernate 4, JSF, Primefaces
 
-- designation: Intern
+- designation: Front-End Team Lead
   company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  start: Jun 2015
-  end: Jan 2016
+    name: Accenture for Zurich
+    url: "https://www.accenture.com"
+    location: Milan (Italy)
+    overview: Syncro is a new Accounting portal for Zurich agencies developed from Accenture in March 2015.
+  start: Jun 2014
+  end: Sep 2015
   responsibilities:
-  - Count lost of interns.
-  - Count more interns.
-  - Count me as an intern.
+  - Develop core business of application (structure, DB Model, Navigation flows, Pages).
+  - Orchestration front-end team, part of this in Offshore to India
+  - Develop activities with technologies as Spring MVC, IBM Portal 8 & Portlets, WAS 8.5, SOAP, Hibernate 4, JSF, Primefaces
+
+- designation: Consultant
+  company:
+    name: Blue Reply s.r.l.
+    url: "https://www.linkedin.com/company/blue-reply-it/"
+    location: Milan (Italy)
+    overview: Working on a consultancy projects developing new Webservices and migration existing architecture.
+  start: Apr 2012
+  end: May 2014
+  responsibilities:
+  - Develop RESTFul services for local registry, other applications was used these services.
+  - Develop RESTFul services for municipal police.
+  - Migration all applications deployed in WAS 6 to WAS 7. Migration consist to upgrade JSF version from 1.0 to 1.2 and java 5 to 6
