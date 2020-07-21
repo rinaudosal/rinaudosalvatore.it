@@ -13,7 +13,7 @@ company:
   url: "https://codeway.ch"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/CV-Europass-20200220-Rinaudo-EN.pdf"
+resume: "files/CV.pdf"
 
 # a summary about you
 summary: 'I am a passionate Software Engineer with 9 years of working experience. I have strong experience in Java development with Spring Boot eco-system, my competence focus are: Functional Programing, Agile metodologies (Scrum, Kanban, TDD), Spring Boot. Two years ago when i discover JHipster i love it immediatly and i know in-dept. Actually i work with Java 11 and Angular in JHipster Cloud structure.  Sometimes, I work on some opensource projects such as [NoiOpen](https://www.noiopen.it/), [FactChecking](https://github.com/rinaudosal/factchecking-static-site) etc.'
